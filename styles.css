@@ -49,6 +49,14 @@ ul {
   margin-bottom: 20px;
 }
 
+ul li {
+  margin-bottom: 5px;
+}
+
+ul li:last-child {
+  margin-bottom: 0;
+}
+
 img {
   width: 500px;
   height: auto;
